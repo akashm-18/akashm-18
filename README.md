@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Typescript , NextJs**
 
-- 💬 Ask me about **react,nodejs,mongodb,firebase,flask**
+- 💬 Ask me about **React , NodeJs , Mongodb , Firebase , Flask**
 
 - 📫 How to reach me **akashmurugan338@gmail.com**
 
